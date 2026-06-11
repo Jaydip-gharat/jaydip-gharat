@@ -60,7 +60,7 @@ My motivation isn't just a job. It's **financial freedom for my family**. Every 
 ⚡  Started    — June 2026 (absolute beginner → building real projects)
 🎯  Goal       — Software Engineering Internship at a top company
 ☕  Backend    — Java + Spring Boot (coming Q4 2026)
-🏗️  Dream      — Tech career + Build a construction fleet business
+🏗️  Dream      — Tech career 
 🌐  Languages  — Marathi | Hindi | English
 ```
 
