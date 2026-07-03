@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=180&section=header&text=Jaydeep%20Gharat&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://github.com/Jaydip-gharat.png" width="120" style="border-radius:50%" />
+<img src="https://images.weserv.nl/?url=github.com/Jaydip-gharat.png&h=200&w=200&fit=cover&mask=circle" width="120" alt="profile picture" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Learning+Full+Stack+Development;Exploring+Cyber+Security;Building+one+project+at+a+time" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Learning+Full+Stack+Development%3BExploring+Cyber+Security%3BBuilding+one+project+at+a+time" alt="typing animation" />
 
 </div>
 
@@ -33,5 +35,3 @@ I'm learning web development from the ground up — currently working through HT
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" />
-
-</div>
